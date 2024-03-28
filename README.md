@@ -2,4 +2,8 @@
 ## git_skill_test
 
 A repo to use during a skill test
-Alan Fuentes
+
+## Names
+
+* Ben Coleman
+* Alan Fuentes
