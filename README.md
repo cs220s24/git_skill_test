@@ -8,3 +8,4 @@ A repo to use during a skill test
 * Jeff Bush
 * Ben Coleman
 * Alan Fuentes
+* Sharon Coleman
