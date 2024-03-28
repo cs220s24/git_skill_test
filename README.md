@@ -7,3 +7,4 @@ A repo to use during a skill test
 
 * Ben Coleman
 * Alan Fuentes
+* Sharon Coleman
