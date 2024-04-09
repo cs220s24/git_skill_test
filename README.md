@@ -6,3 +6,5 @@ A repo to use during a skill test
 ## Names
 * Yousuf Kanan
 * Ben Coleman
+* Sharon Coleman
+
